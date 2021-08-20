@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 import OpenSSL
 import ssl, socket
 import sys
